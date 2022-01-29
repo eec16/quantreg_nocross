@@ -31,11 +31,12 @@ r_quantile.m
 sfnMessage.m
 
 /fortran_code folder:
-compile_nocross.m- MATLAB code to compile FORTRAN code into MATLAB MEX function.
+compile_nocross.m- MATLAB code to compile Fortran code into MATLAB MEX function.
     Uses the -R2018a option
 bckslv.f
 boundc.f
 chlfct.f
+cholesky.f
 daxpy.f
 ddot.f
 extract.f
@@ -43,4 +44,3 @@ sparskit2.f
 srqfnc.f
 srqfncGate.F- Gateway function for MATLAB MEX function
 srqfncGate.mexa64- pre-compiled MATLAB MEX executable in 64-bit Linux format
-    
