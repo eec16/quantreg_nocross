@@ -9,6 +9,9 @@ Base R source code
 quantreg R package
 sparseM R package
 
+Fortran scripts other than srqfncGate.F come from sources such 
+as LAPACK embedded in R or R packages cited above.
+
 Translator: 
 Evan Corden
 
