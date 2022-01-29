@@ -17,7 +17,7 @@ Evan Corden
 
 7/3/2021
 
-Add both root and fortran-code folders to MATLAB path or move MEX executable
+Add both root and fortran_code folders to MATLAB path or move MEX executable
 to root folder
 
 Contents:
